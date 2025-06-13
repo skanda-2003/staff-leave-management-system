@@ -94,29 +94,29 @@ Once started, open [http://localhost:3000](http://localhost:3000) in your browse
 ### 👤 Staff (Employee) Views
 
 #### 🔐 Login Page
-![Login](./screenshots/login.png)
+[<img src="screenshots/login.png" width="600"/>](screenshots/login.png)
 
 #### 🏠 Home Page
-![Home Page](./screenshots/home-page.png)
+[<img src="screenshots/home-page.png" width="600"/>](screenshots/home-page.png)
 
 #### 📝 Apply for Leave
-![Leave Apply](./screenshots/leave-apply.png)
+[<img src="screenshots/leave-apply.png" width="600"/>](screenshots/leave-apply.png)
 
-#### 📋 View Leave Types
-![Leave Type](./screenshots/leave-type.png)
+#### 📋 Leave Types
+[<img src="screenshots/leave-type.png" width="600"/>](screenshots/leave-type.png)
 
 ---
 
 ### 🛡️ Admin Views
 
 #### 📄 Pending Leave Requests
-![Pending Leaves](./screenshots/pending-leaves.png)
+[<img src="screenshots/pending-leaves.png" width="600"/>](screenshots/pending-leaves.png)
 
 #### ❌ Declined Leaves
-![Declined Leaves](./screenshots/declined-leaves.png)
+[<img src="screenshots/declined-leaves.png" width="600"/>](screenshots/declined-leaves.png)
 
 #### 👥 Staff List
-![Staff List](./screenshots/staff-list.png)
+[<img src="screenshots/staff-list.png" width="600"/>](screenshots/staff-list.png)
 
 
 ---
@@ -143,7 +143,6 @@ DBMS MIni Project Final Submission/
 
 - The backend server runs on port `3001` by default.
 - Frontend runs on port `3000` and proxies API requests to the backend.
-- Ensure CORS is enabled in the backend for smooth API integration.
 - Consider using `.env` files to secure credentials in production.
 
 ---
