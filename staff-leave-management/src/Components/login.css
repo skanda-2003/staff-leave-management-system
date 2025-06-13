@@ -1,0 +1,67 @@
+/* Login.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+}
+
+.login-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+
+.login-form {
+  flex: 1;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(90deg, #5585b5, #53a8b6, #79c2d0, #bbe4e9); /* Updated to use the navbar color combination */
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 15px;
+  border: 2px solid #bdc3c7; /* Lighter border color */
+  border-radius: 10px;
+}
+
+button {
+  background-color: #084b65;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: larger;
+  margin-left: 20px;
+}
+
+/* Lighter background color for login buttons to provide contrast */
+button:hover,
+button:focus {
+  background-color: #0c718b;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding-left: 20px;
+}
+
+/* ... (other styles) */

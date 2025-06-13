@@ -1,0 +1,47 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000; /* Ensures the navbar stays above other elements */
+  background: linear-gradient(90deg, #5585b5, #53a8b6, #79c2d0, #bbe4e9);
+  padding: 15px 0; /* Adjusted padding for a cleaner look */
+  width: 100vw; /* Full width of the viewport */
+}
+
+/* rest of your styles remain unchanged */
+
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand img {
+  margin-right: 10px;
+}
+
+.nav-link {
+  color: #ecf0f1;
+  padding: 15px;
+  margin-right: 10px;
+}
+
+.nav-link:hover {
+  color: #3498db;
+}
+.first-color {
+  background: #5585b5;
+}
+
+.second-color {
+  background: #53a8b6;
+}
+
+.third-color {
+  background: #79c2d0;
+}
+
+.fourth-color {
+  background: #bbe4e9;
+}

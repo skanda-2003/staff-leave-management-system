@@ -1,0 +1,27 @@
+/* StaffPage.css */
+.table-container {
+  overflow-y: auto;
+  max-height: 500px;
+  margin-top: 100px; /* Adjust the margin as needed */
+}
+
+.add-staff-button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.add-staff-button {
+  background: #53a8b6;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.action-button {
+  background: #53a8b6;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-right: 5px;
+}

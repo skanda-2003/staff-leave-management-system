@@ -1,0 +1,51 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-container {
+  padding: 20px;
+  text-align: center;
+  max-width: 800px;
+  background: #bbe4e9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  height: 100%; /* Full height of the viewport */
+}
+
+/* ... rest of your CSS ... */
+
+
+.first-color {
+background: #5585b5;
+}
+
+.second-color {
+background: #53a8b6;
+}
+
+.third-color {
+background: #79c2d0;
+}
+
+.fourth-color {
+background: #bbe4e9;
+}
+
+.home-container h1 {
+color: #07163b;
+}
+
+.home-container p {
+font-size: large;
+font-style: normal;
+
+color: #2c3e50;
+margin-bottom: 15px;
+}

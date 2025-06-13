@@ -1,0 +1,19 @@
+/* ViewLeave.css */
+.table-container {
+    margin-top: 20px;
+  }
+  
+  .buttons-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .approve-button {
+    margin-right: 10px;
+  }
+  
+  .decline-button {
+    margin-left: 10px;
+  }
+  

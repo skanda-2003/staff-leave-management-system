@@ -1,0 +1,8 @@
+To run the project,
+
+In the backend folder, use 
+node server.js
+for connectivity with mysql
+
+In frontend folder, use
+npm start
