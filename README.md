@@ -126,7 +126,7 @@ Once started, open [http://localhost:3000](http://localhost:3000) in your browse
 ```
 DBMS MIni Project Final Submission/
 │
-├── Instructions.txt
+├── instructions.txt
 ├── staff-backend/
 │   ├── server.js
 │   ├── db.js
